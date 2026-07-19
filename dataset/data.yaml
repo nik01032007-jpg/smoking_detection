@@ -1,0 +1,10 @@
+path: /content/drive/MyDrive/smoking_detection/my_dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: person
+  1: smoke
+  2: vape
+  3: cigarette
